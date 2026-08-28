@@ -162,7 +162,7 @@ Cybersecurity Enthusiast • Digital Forensics • Cybercrime Investigation
 
 <p align="center">
 
-<img src="./assets/contribution-history.svg" alt="Fajle Imam GitHub Contribution Graph"/>
+<img src="./assets/lifetime.dark.svg" width="100%" alt="Fajle Imam GitHub Contribution Graph"/>
 
 </p>
 
